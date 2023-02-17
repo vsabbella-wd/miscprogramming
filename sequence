@@ -1,0 +1,26 @@
+Product2
+Category
+Category Hierarchy 0-3
+Product Classification (Category to Product Mapping)
+Product Option Group (Option Groups)
+Product Option (Option mapping to Option Group)
+Product Group
+Product Group Member (Product Group to Product Mapping)
+Product Attribute
+Product Attrubute Group
+Product Attribute Group Member
+Price List
+Related Price List
+Price List Category (Price Lis to Category Mapping)
+Price Dimension
+Price List Item (Part 1 and 2 in xls)
+Related Price List Item
+Price Matrix
+Price Matrix Entry
+Product Option Price
+Price Rule
+Price Rule Set
+Price Rule Entry
+Constraint Rule
+Constraint Rule Action
+Constraint Rule Condition
